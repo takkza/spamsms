@@ -14,7 +14,7 @@ fail = (Fore.YELLOW+Style.BRIGHT+"[-] "+
 
 def banner():
     os.system("clear")
-    logo = """TAK-SMS
+    logo = """HYPRE-SMS
     """
     clrs = print(c_color+logo+W)
 
